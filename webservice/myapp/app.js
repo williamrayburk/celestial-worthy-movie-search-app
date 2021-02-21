@@ -13,6 +13,8 @@ Pseudocode unit tests using Mocha
 //Call to TMDB API will happen when webapp makes the request through REST API to this webservice
 
 //Function Def: Main method to start embedded server
+//This is the first method to run.  Several sites show how to start an embedded server.
+//Reach out to Mike Johnson for help with this.
 
 //Function Def: Call TMDB API
 /*
